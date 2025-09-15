@@ -28,7 +28,7 @@ Screenshots included in HW0 Assignment.ipynb demonstrate setup of:
     - PyTorch installation and GPU availability
 [See details](https://github.com/Shreevatsa123/DATA602_FardinaAlam/tree/main#4-add-screenshots-06-points)
 - [x] **(Optional Bonus)**
-Relevant Docker setup screenshots included if bonus attempted.
+Relevant Docker setup screenshots included.
 
 ***
 
@@ -37,5 +37,6 @@ All items above have been completed and documented as required in the HW0 Assign
 <div style="text-align: center">⁂</div>
 
 [^1]: https://github.com/Shreevatsa123/DATA602_FardinaAlam
+
 
 
