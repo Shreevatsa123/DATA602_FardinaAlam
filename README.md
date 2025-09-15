@@ -1,5 +1,3 @@
-***
-
 ### Name - Shreevatsa Agnihotri
 ### UID - 122178717
 
@@ -29,14 +27,6 @@ Screenshots included in HW0 Assignment.ipynb demonstrate setup of:
 [See details](https://github.com/Shreevatsa123/DATA602_FardinaAlam/tree/main#4-add-screenshots-06-points)
 - [x] **(Optional Bonus)**
 Relevant Docker setup screenshots included.
-
-***
-
-All items above have been completed and documented as required in the HW0 Assignment Notebook.[^1]
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://github.com/Shreevatsa123/DATA602_FardinaAlam
 
 
 
