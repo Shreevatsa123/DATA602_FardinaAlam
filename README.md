@@ -1,7 +1,7 @@
-### Name - Shreevatsa Agnihotri
-### UID - 122178717
-
 # HW0 Assignment Checklist
+
+Name - **Shreevatsa Agnihotri** <br>
+UID - **122178717**
 
 This README documents the completion of all required tasks for HW0 in DATA602.
 
@@ -27,6 +27,7 @@ Screenshots included in HW0 Assignment.ipynb demonstrate setup of:
 [See details](https://github.com/Shreevatsa123/DATA602_FardinaAlam/tree/main#4-add-screenshots-06-points)
 - [x] **(Optional Bonus)**
 Relevant Docker setup screenshots included.
+
 
 
 
